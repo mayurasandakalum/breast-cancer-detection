@@ -2,6 +2,8 @@
 
 This project involves the classification of breast cancer using various machine learning techniques. The dataset used contains several features extracted from breast cancer cell images.
 
+![Background Image](./outputs/bg.jpg)
+
 ## Table of Contents
 
 - [Breast Cancer Classification Project](#breast-cancer-classification-project)
